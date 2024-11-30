@@ -1,0 +1,3 @@
+[submodule "python-bootcamp"]
+	path = python-bootcamp
+	url = https://github.com/gupta-yuvraj/generative-ai-course-with-langchain-and-huggingface
